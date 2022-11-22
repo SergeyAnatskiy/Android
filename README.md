@@ -1,4 +1,4 @@
-# TSN_DEMO_06_Database
+# ASA_android06_Database
 Работа с базой данных SQLite
 
 ![Screenshot](screenshot.png)
